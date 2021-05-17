@@ -14,7 +14,7 @@ Repository for Data Science foundation and projects for Eric Moon
 | 4/19 | 1. Kaggle Project on Titanic Dataset: Data preprocessing, Data Visualization, Data Modelling -> Kaggle Kernel<br />2. Machine learning overview - classification & regression<br /> | [Classification_Regression_Basics.md](https://github.com/sophryu99/data_science_foundation-1/blob/main/April_19/Classification_Regression_Basics.md) | 60    |
 | 4/26 | 1. Kaggle Project on Titanic Dataset: Data preprocessing, Data Visualization, Data Modelling -> Kaggle Kernel<br />2. Machine learning overview - classification & regression<br />3. Prediction submission<br />4. Kaggle project on Bio-informatics: competition selection | [Kaggle Project Submission]()                                | 60    |
 | 5/10 | 1. Kaggle Project insights & reflections<br />2. EDA and decision making processes | [Project Insights & Reflection](https://ericjwmoon.wordpress.com/2021/05/10/titanic-machine-learning-from-disaster-kaggle/) | 60    |
-| 5/17 | 1. Kaggle Project on Covid-19 <br />2. Visualization with interactive visualization tools (Plotly and Folium) |                                                              | 60    |
+| 5/17 | 1. Kaggle Project on Covid-19 <br />2. Visualization with interactive visualization tools (Plotly and Folium) | [covid_19_cases.png](https://github.com/sophryu99/data_science_foundation-1/blob/main/May_17/covid_19_cases.png) | 60    |
 |      |                                                              |                                                              |       |
 |      |                                                              |                                                              |       |
 
