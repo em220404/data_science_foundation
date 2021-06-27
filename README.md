@@ -16,7 +16,7 @@
 - Tech Stack
   - Python3, pandas, Jupyter, folium, plotly
 - [Project Link](https://nbviewer.jupyter.org/github/em220404/data_science_foundation/blob/main/projects/covid-19-cases-interactive-visualization.ipynb)
-- [Project Description & Explanation]()
+- [Project Description & Explanation](https://ericjwmoon.wordpress.com/2021/06/27/covid-19-python-visualization-project/)
 
 
 
